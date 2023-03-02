@@ -1,0 +1,8 @@
+selenium
+webdriver-manager
+moviepy
+imageio-ffmpeg 
+lxml
+pytelegrambotapi
+opencv-python
+ffmpeg
